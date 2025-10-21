@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `Hi baby Happy 11th Monthsary!.\n I love you so much love, I hope napaparamdam ko sayo everyday how much you mean to me!I love you forever and everr.\n\n I will always be your kakampi hehe “us.”\n\nPlease be patient w us baby hehhe Ik kaggaling lang natin sa away at sana di yun nakabawas ng love mo for me.n\nI love you, my love!, tiis lang hmm? magkikita rin tayo!`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
